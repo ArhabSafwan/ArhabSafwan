@@ -19,7 +19,7 @@ Skills:  JS / HTML / CSS/PHP/Laravel/Web Development/Website Development
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ArhabSafwan)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArhabSafwan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?id=100007115250869)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub metrics](https://metrics.lecoq.io/ArhabSafwan)  
 
