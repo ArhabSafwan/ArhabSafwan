@@ -6,7 +6,7 @@ Throughout my career, I have gained extensive experience in web development, wit
 
 Skills:  JS / HTML / CSS/PHP/Laravel/Web Development/Website Development
 
-- 🔭 I’m currently working on a Software Comapny name DEVTECHGURU as a Software Engineer 
+- 🔭 I’m currently working on a Software Comapny name 3DEVs as a Full Stack Software Engineer 
 - 🌱 I’m currently learning Javascript and Laravel 
 - 👯 I’m looking to collaborate on Github, stackoverflow 
 - 💬 Ask me about web development 
